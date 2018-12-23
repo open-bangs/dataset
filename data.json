@@ -1,0 +1,10 @@
+{
+  "version": 1,
+
+  "data": [
+    {
+      "keyword": "peeringdb",
+      "url": "https://www.peeringdb.com/search?q=%s"
+    }
+  ]
+}
